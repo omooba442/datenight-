@@ -2249,11 +2249,11 @@ footer {
 
 /*-- Banner --*/
 .banner-bg-two {
-  background-image: url("../img/banner/banner-bg2.jpg");
+  background-image: url("../imgss/D31.png");
 }
 
 .banner-bg-three {
-  background-image: url("../img/banner/banner-bg3.jpg");
+  background-image: url("../imgss/D20.png");
 }
 
 .banner-area-two .banner-item {
@@ -2765,7 +2765,7 @@ footer {
 /*-- Video --*/
 .video-area {
   height: 620px;
-  background-image: url("../img/video-bg.jpg");
+  background-image: url("../imgss/D50.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
