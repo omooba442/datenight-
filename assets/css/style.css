@@ -1063,7 +1063,7 @@ ul {
   position: absolute;
   left: 40px;
   top: 60px;
-  color: #F6BE00;
+
   font-size: 35px;
   line-height: 35px;
   z-index: 1;
@@ -1092,12 +1092,9 @@ ul {
 }
 
 .services-item h3 a {
-  color: #F6BE00;
+  color: #000000;
 }
 
-.services-item h3 a:hover {
-  color: #011a41;
-}
 
 .services-item p {
   margin-bottom: 14px;
